@@ -13,7 +13,7 @@ YogaVision is an advanced software application designed to detect yoga poses in 
 
 ## Installation
 
-1. Clone the repository from GitHub: [YogaVision GitHub Repository](https://github.com/username/YogaVision)
+1. Clone the repository from GitHub: [YogaVision GitHub Repository](https://github.com/animagus12/YogaVision)
 2. Install the required dependencies:
     ```bash
     pip install numpy
